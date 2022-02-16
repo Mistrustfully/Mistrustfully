@@ -1,4 +1,7 @@
-### Hi there 👋
+Hey! I'm Christian Fletcher.
+I like to program in Rust, Typescript, and Luau.
+
+I'm a huge fan of open source software, and I try to contribute code wherever I can!
 
 <!--
 **Mistrustfully/Mistrustfully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
